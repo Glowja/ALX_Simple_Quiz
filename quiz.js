@@ -1,8 +1,7 @@
 function checkAnswer() {
     // Function body
     let correctAnswer =('4')
-    console.log('4')
+    console.log('correctAnswer')
 }
-const name=document.querySelector(name="quiz")
-console.log(name)
-userAnswer
+document.querySelector("quiz")
+Object.values['4']
